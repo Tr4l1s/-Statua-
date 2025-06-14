@@ -1,15 +1,17 @@
-Statua - Unity Projesi 🎮🩸
+🩸 Statua - Unity Korku Oyunu Projesi
+Statua, Unity oyun motoru ile geliştirilmiş tek oyunculu bir korku/macera oyunudur.
+Oyuncu, Bodrum Güzel Sanatlar Fakültesi'nde geçen bu karanlık hikâyede hayatta kalmak, ritüel nesnelerini toplayarak deney sonucu canlanan heykel Statua’yı yok etmek zorundadır.
 
-Bu proje, Unity oyun motoru kullanılarak geliştirilmiş bir tek oyunculu korku oyunudur. 
-Oyuncu, Bodrum güzel sanatlar fakültesinde hayatta kalmaya çalışırken ritüel nesnelerini toplayarak deney sonucu canlanan Statua'yı yok etmek zorundadır.
 
-🎮 Özellikler
-🔦 Sürükleyici atmosfer ve karanlık görseller
-🎧 Gerilim müzikleri ve ses efektleri
-👁️ Düşman yapay zekâsı (canavar takip sistemi)
-🧩 Görev sistemi ve ritüel mekanikleri
-💡 Jeneratör aktivasyonu ve zamana karşı mücadele
+🎮 Oyun Özellikleri
+🔦 Sürükleyici atmosfer ve karanlık görsel tasarım
+🎧 Gerilim müzikleri ve çevresel ses efektleri
+👁️ Yapay zekâ canavar: Oyuncuyu takip eden düşman sistemi
+🧩 Görev ve ritüel mekanikleri: Nesne toplama ve sıralı görev sistemi
+💡 Jeneratör aktivasyonu: Zamana karşı mücadele öğeleri
+
+
 🛠️ Kullanılan Teknolojiler
 Unity (C#)
-Unity NavMesh
-Git & GitHub
+Unity NavMesh (Yapay zekâ yolu bulma)
+GitHub (Versiyon kontrolü)
