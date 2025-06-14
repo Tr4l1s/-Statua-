@@ -1,4 +1,5 @@
-🩸 Statua - Unity Korku Oyunu Projesi
+🩸 Statua - Unity Projesi
+
 Statua, Unity oyun motoru ile geliştirilmiş tek oyunculu bir korku/macera oyunudur.
 Oyuncu, Bodrum Güzel Sanatlar Fakültesi'nde geçen bu karanlık hikâyede hayatta kalmak, ritüel nesnelerini toplayarak deney sonucu canlanan heykel Statua’yı yok etmek zorundadır.
 
