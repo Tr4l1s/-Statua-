@@ -1,4 +1,5 @@
 Statua - Unity Projesi 🎮🩸
+
 Bu proje, Unity oyun motoru kullanılarak geliştirilmiş bir tek oyunculu korku oyunudur. 
 Oyuncu, Bodrum güzel sanatlar fakültesinde hayatta kalmaya çalışırken ritüel nesnelerini toplayarak deney sonucu canlanan Statua'yı yok etmek zorundadır.
 
