@@ -6,13 +6,19 @@ Oyuncu, Bodrum Güzel Sanatlar Fakültesi'nde geçen bu karanlık hikâyede haya
 
 🎮 Oyun Özellikleri
 🔦 Sürükleyici atmosfer ve karanlık görsel tasarım
+
 🎧 Gerilim müzikleri ve çevresel ses efektleri
+
 👁️ Yapay zekâ canavar: Oyuncuyu takip eden düşman sistemi
+
 🧩 Görev ve ritüel mekanikleri: Nesne toplama ve sıralı görev sistemi
+
 💡 Jeneratör aktivasyonu: Zamana karşı mücadele öğeleri
 
 
 🛠️ Kullanılan Teknolojiler
 Unity (C#)
+
 Unity NavMesh (Yapay zekâ yolu bulma)
+
 GitHub (Versiyon kontrolü)
