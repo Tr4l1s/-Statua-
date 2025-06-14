@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - HealthBar
+  - Fener
+  - Not1
+  - "Kap\u0131"
+  - Key
+  - Kart
+  - Kulube
+  - RituelNesne1
+  - RituelNesne2
+  - RituelNesne3
+  - RituelNesne4
+  - RituelNokta1
+  - RituelNokta2
+  - RituelNokta3
+  - RituelNokta4
+  - Canavar
+  - SayacKutusu
+  - RituelMerkezi
+  - Ground
+  - Not2
+  - Not3
+  - FakeCanavar
+  - ArabaAnahtari
+  - Taksi
+  - Door_Yemekhane
+  - HealthJumpscare
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - TopLayer
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
